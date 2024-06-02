@@ -1,0 +1,99 @@
+{
+  // General
+
+  "Menu_Question": "Afficher les éléments encore nécessaires pour...",
+  "Menu_Walnuts": "Noix dorées",
+  "Menu_Stardrops": "Fruits étoilés",
+  // other menu items pull titles from base game data
+  "Menu_Cancel": "annuler",
+
+  "Response_NotYetImplemented": "Pas encore implémenté",
+  "Response_Section": "partie {{section}} de {{numberSections}}",
+
+  "Options_OpenMenuKey": "Raccourci \"Ouvrir le menu\"",
+
+  "AllSeasons": "Toutes les saisons",
+
+  // Community Center
+
+  "CommunityCenter_Silver": "argent",
+  "CommunityCenter_Gold": "or",
+  "CommunityCenter_Iridium": "iridium",
+  "CommunityCenter_MoreOptionsThanSlots": "x", // e.g. Exotic Foraging: "5 of Coconut, Cactus Fruit, ..."
+  "CommunityCenter_Complete": "{{title}} complété !",
+
+  // Golden Walnuts
+
+  "Walnuts_Complete": "{{title}} complété !",
+
+  // Full Shipment
+
+  "Shipping_Complete": "{{title}} complété !",
+
+  "Options_ShippingSortOrder": "Tri - Cargaison pleine",
+  "Options_ShippingSortOrder_Category": "Catégorie",
+  "Options_ShippingSortOrder_ItemName": "Nom de l'article",
+  "Options_ShippingSortOrder_CollectionsTab": "Basé sur l'onglet Collections",
+
+  // Gourmet Chef
+
+  "Cooking_NotYetLearned": "pas encore appris",
+  "Cooking_Complete": "{{title}} complété !",
+
+  "Options_CookingSortOrder": "Tri - Chef gastronomique",
+  "Options_CookingSortOrder_KnownRecipesFirst": "Recettes connues en premier",
+  "Options_CookingSortOrder_RecipeName": "Nom de la recette",
+  "Options_CookingSortOrder_CollectionsTab": "Basé sur l'onglet Collections",
+
+  // Craft Master
+
+  "Crafting_NotYetLearned": "pas encore appris",
+  "Crafting_Complete": "{{title}} est complet!",
+
+  "Options_CraftingSortOrder": "Tri - Maître artisan",
+  "Options_CraftingSortOrder_KnownRecipesFirst": "Recettes connues en premier",
+  "Options_CraftingSortOrder_RecipeName": "Nom de la recette",
+  "Options_CraftingSortOrder_CraftingMenu": "Basé sur le menu d'artisanat",
+
+  // Master Angler
+
+  "Fishing_Fish": "{{fish}}",
+  "Fishing_Complete": "{{title}}est complet!",
+
+  "Options_FishingSortOrder": "Tri - Maître pêcheur",
+  "Options_FishingSortOrder_SeasonsSpringFirst": "Saison(s), le printemps en premier",
+  "Options_FishingSortOrder_SeasonsCurrentFirst": "Saison(s), actuelle en premier",
+  "Options_FishingSortOrder_FishName": "Nom du poisson",
+  "Options_FishingSortOrder_CollectionsTab": "Basé sur l'onglet de Collections",
+
+  // A Complete Collection
+
+  "Museum_Complete": "{{title}}est complet!",
+
+  "Options_MuseumSortOrder": "Tri - Une collection complète",
+  "Options_MuseumSortOrder_Type": "Type/nom de l'article",
+  "Options_MuseumSortOrder_ItemName": "Nom de l'article",
+  "Options_MuseumSortOrder_CollectionsTabs": "Basé sur l’onglet de Collections",
+
+  // Stardrops
+
+  "Stardrop_CF_Fair": "Acheté à la foire de Stardew Valley pour 2 000 jetons étoilés",
+  "Stardrop_CF_Mines": "Trouvé dans un coffre au niveau 100 des mines",
+  "Stardrop_CF_Spouse": "Donné par le conjoint du PNJ à 12,5 cœurs",
+  "Stardrop_CF_Sewer": "Acheté auprès de Krobus dans les égouts pour 20 000 po",
+  "Stardrop_CF_Statue": "Reçu du vieux maître Cannoli dans les bois secrets",
+  "Stardrop_CF_Fish": "Envoyé par Willy après la réussite de Maître pêcheur",
+  "Stardrop_museumComplete": "Récompense pour avoir complété la collection du musée",
+  "Stardrop_Complete": "{{title}} complets !",
+
+  // Polyculture
+
+  "Polyculture_NumberNeeded": "envoyez {{number}} en plus",
+  "Polyculture_Complete": "{{title}} complet !",
+
+  "Options_PolycultureSortOrder": "Tri - Polyculture",
+  "Options_PolycultureSortOrder_SeasonsSpringFirst": "Saison(s), printemps en premier",
+  "Options_PolycultureSortOrder_SeasonsCurrentFirst": "Saison(s), actuelle en premier",
+  "Options_PolycultureSortOrder_CropName": "Nom de la culture",
+  "Options_PolycultureSortOrder_NumberNeeded": "Nombre nécessaire"
+}
